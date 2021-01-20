@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container">
+  <h2>Basic Table</h2>
+  <p>The w3-table class defines a basic table:</p>
+
+  <form class="w3-container">
+    <h4>Filtrar por:</h4>
+    <p>
+    <input class="w3-radio" type="radio" name="filtro" value="Supervisor" checked>
+    <label>Supervisor</label></p>
+    <p>
+    <input class="w3-radio" type="radio" name="filtro" value="Clases">
+    <label>Clases</label></p>
+    <p>
+    <input class="w3-radio" type="radio" name="filtro" value="Departamento">
+    <label>Departamento</label>
+    <p>
+    <input class="w3-radio" type="radio" name="filtro" value="Subsidiaria">
+    <label>Subsidiaria</label></p>
+  </form>
+  
+  <table class="w3-table">
+    <tr>
+      <th>Apellido</th>
+      <th>Nombre</th>
+      <th>Supervisor</th>
+      <th>Clase</th>
+      <th>Departamento</th>
+      <th>Subsidiaria</th>
+    </tr>
+    <tr>
+      <td>Juan</td>
+      <td>Perez</td>
+      <th>Ernesto Galindo</th>
+      <td>50120</td>
+      <th>Contabilidad</th>
+      <th>Compensar</th>
+    </tr>
+  </table>
+</div>
+<div class="w3-container">
+    <button>Guardar como Excel</button>
+    <button>Guardar como CSV</button>
+    <button>Guardar como PDF</button>
+</div>
+
+</body>
+</html>
