@@ -1,6 +1,6 @@
 # Prueba técnica – Solution Engineer
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Realizar una aplicación web que permita filtrar la base de datos de un grupo de empleados y exportar dicha lista filtrada en un documento según formato seleccionado (Excel, CSV o PDF)._
 
 _Presentada por: Pilar Camargo Márquez_
 - [Página personal](https://about.me/justoneye)
@@ -25,22 +25,26 @@ _Presentada por: Pilar Camargo Márquez_
 
 ## Checklist - Criterio de aceptación 
 
-<ol>
-[✓ ] Construir archivo JSON a partir de archivo Excel 
-[✓ ] Interfaz web tipo reporte (lista de empleados) 
-[✓ ] Interfaz con filtros (Supervisor, Clases, Dpto, Subsidiaria) 
-[✓ ] Listado agrupado por Supervisor 
-[✓ ] Listado ordenado alfabéticamente por "Nombre" en cada grupo 
-[✓ ] Exportación de consulta a:
-- Excel 
-- CSV 
-- PDF
-[✓ ] Entrega de archivo .readme 
-[✓ ] Uso de:
-- HTML
-- CSS
-- Javascript 
-</ol>
+<ul>
+<li> Construir archivo JSON a partir de archivo Excel </li>
+<li> Interfaz web tipo reporte (lista de empleados) </li>
+<li> Interfaz con filtros (Supervisor, Clases, Dpto, Subsidiaria) </li>
+<li> Listado agrupado por Supervisor </li>
+<li> Listado ordenado alfabéticamente por "Nombre" en cada grupo </li>
+<li> Exportación de consulta a: </li>
+<ul>
+<li> Excel </li>
+<li> CSV </li>
+<li> PDF </li> 
+</ul>
+<li> Entrega de archivo README </li>
+<li> Uso de: </li>
+<ul>
+<li> HTML </li>
+<li> CSS </li>
+<li> Javascript </li>
+</ul>
+</ul>
 
 ## Estructura del Archivo
 
