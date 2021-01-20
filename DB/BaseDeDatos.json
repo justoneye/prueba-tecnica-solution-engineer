@@ -1,0 +1,803 @@
+
+	[
+		{
+			"Apellidos":"Zúñiga Ramírez",
+			"Nombres":"Lina María",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":70814,
+			"Departamento":"Servicio al Cliente",
+			"Subsidiaria":"Colsubsidio"
+		},
+		{
+			"Apellidos":"Bolívar Galeano",
+			"Nombres":"Maria Alejandra",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":22149,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Beltrán Castillo",
+			"Nombres":"María Angélica",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":10019,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Cafamaz"
+		},
+		{
+			"Apellidos":"Guacas Jiménez",
+			"Nombres":"María Camila",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":10019,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Cafamaz"
+		},
+		{
+			"Apellidos":"García Mora",
+			"Nombres":"Maria José",
+			"Supervisor":"Dominguez, Ana",
+			"Clase":22149,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"Garzón Muñoz",
+			"Nombres":"Mario Fernando",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":70814,
+			"Departamento":"Recursos Humanos",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Camacho Amaya",
+			"Nombres":"Mónica Alexandra",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":70814,
+			"Departamento":"Servicio al Cliente",
+			"Subsidiaria":"Colsubsidio"
+		},
+		{
+			"Apellidos":"Puentes Perdomo",
+			"Nombres":"Natalia",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":50120,
+			"Departamento":"Contabilidad",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"Gutiérrez Velasco",
+			"Nombres":"Natalia Andrea",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":10019,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Saman Jimenez",
+			"Nombres":"Olga Stephannia",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":22149,
+			"Departamento":"Servicio al Cliente",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Ovalle Solano",
+			"Nombres":"Olga Viviana",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":50120,
+			"Departamento":"Contabilidad",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Castellanos Rojas",
+			"Nombres":"Oscar  Fabian",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":70814,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Colmenares Barbudo",
+			"Nombres":"Oscar David",
+			"Supervisor":"Dominguez, Ana",
+			"Clase":70814,
+			"Departamento":"Servicio al Cliente",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"Gonzalez Rojas",
+			"Nombres":"Rafael Alejandro",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":22149,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Alvarez Castillo",
+			"Nombres":"Rafael Andres",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":50120,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Vega Zambrano",
+			"Nombres":"Ricardo",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":70814,
+			"Departamento":"Servicio al Cliente",
+			"Subsidiaria":"Colsubsidio"
+		},
+		{
+			"Apellidos":"Garcés Parra",
+			"Nombres":"Sandra Ximena",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":70814,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Colsubsidio"
+		},
+		{
+			"Apellidos":"Salazar Aristizabal",
+			"Nombres":"Yuri Catalina",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":50120,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Colsubsidio"
+		},
+		{
+			"Apellidos":"Hernandez Monterroza",
+			"Nombres":"Adriana Carolina",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":70814,
+			"Departamento":"Servicio al Cliente",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Rocha Garcia",
+			"Nombres":"Angelica Maria",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":70814,
+			"Departamento":"Contabilidad",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"Castaño Contreras",
+			"Nombres":"Carlos Didier",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":22149,
+			"Departamento":"Servicio al Cliente",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Mogollón Pachón",
+			"Nombres":"Carlos Felipe",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":70814,
+			"Departamento":"Contabilidad",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"Gomez Gianine",
+			"Nombres":"Carol Ruchina",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":50120,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Hernández Bravo",
+			"Nombres":"Daniela",
+			"Supervisor":"Dominguez, Ana",
+			"Clase":70814,
+			"Departamento":"Servicio al Cliente",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Quesada Calderín",
+			"Nombres":"Estewil Carlos",
+			"Supervisor":"Dominguez, Ana",
+			"Clase":50120,
+			"Departamento":"Contabilidad",
+			"Subsidiaria":"Colsubsidio"
+		},
+		{
+			"Apellidos":"Fino Andrade",
+			"Nombres":"Fabian Andres",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":22149,
+			"Departamento":"Servicio al Cliente",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"Jimenez Cortes",
+			"Nombres":"Juan Camilo",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":70814,
+			"Departamento":"Recursos Humanos",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Lanao Sánchez",
+			"Nombres":"Juan Esteban",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":10019,
+			"Departamento":"Contabilidad",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Sierra Villamil",
+			"Nombres":"Liseth Tatiana",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":70814,
+			"Departamento":"Recursos Humanos",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Santos Milachay",
+			"Nombres":"Mariana Del Pilar",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":22149,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Ulloa Orjuela",
+			"Nombres":"Oscar Julian",
+			"Supervisor":"Dominguez, Ana",
+			"Clase":50120,
+			"Departamento":"Recursos Humanos",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Uribe Antia",
+			"Nombres":"Pablo",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":31013,
+			"Departamento":"Servicio al Cliente",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"Borda Melguizo",
+			"Nombres":"Sebastian",
+			"Supervisor":"Dominguez, Ana",
+			"Clase":50120,
+			"Departamento":"Contabilidad",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Cifuentes Mendez",
+			"Nombres":"Yurany Catalina",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":50120,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Colsubsidio"
+		},
+		{
+			"Apellidos":"Ospina Alfonso",
+			"Nombres":"Catherine",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":50120,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Castiblanco Salgado",
+			"Nombres":"Daniel Andrés",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":10019,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Puerto Navia",
+			"Nombres":"Daniella",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":50120,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"Herrera Moreno",
+			"Nombres":"Gabriel Felipe",
+			"Supervisor":"Dominguez, Ana",
+			"Clase":22149,
+			"Departamento":"Recursos Humanos",
+			"Subsidiaria":"Colsubsidio"
+		},
+		{
+			"Apellidos":"Sánchez Arenas",
+			"Nombres":"Jenny Fernanda",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":10019,
+			"Departamento":"Servicio al Cliente",
+			"Subsidiaria":"Colsubsidio"
+		},
+		{
+			"Apellidos":"Orozco Dussán",
+			"Nombres":"Jorge Mario",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":31013,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Marin Zubieta",
+			"Nombres":"Jose Guillermo",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":70814,
+			"Departamento":"Recursos Humanos",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Ortega Peña",
+			"Nombres":"Juan Camilo",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":50120,
+			"Departamento":"Contabilidad",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Sanchez Sanchez",
+			"Nombres":"Juan Sebastian",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":50120,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Hernández Pulido",
+			"Nombres":"Karen Eliana",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":31013,
+			"Departamento":"Recursos Humanos",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"García Fonnegra",
+			"Nombres":"Luisa Fernanda",
+			"Supervisor":"Dominguez, Ana",
+			"Clase":50120,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Garcia Rueda",
+			"Nombres":"Marcela",
+			"Supervisor":"Dominguez, Ana",
+			"Clase":10019,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"García Mora",
+			"Nombres":"Maria José",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":50120,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"Camargo Mendoza",
+			"Nombres":"Mónica Natalia",
+			"Supervisor":"Dominguez, Ana",
+			"Clase":31013,
+			"Departamento":"Servicio al Cliente",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Casas Páez",
+			"Nombres":"Natalia Vivy",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":50120,
+			"Departamento":"Recursos Humanos",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Correa Larios",
+			"Nombres":"Paola Andrea",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":22149,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Colsubsidio"
+		},
+		{
+			"Apellidos":"Ochoa Sabogal",
+			"Nombres":"Yiriam Liliam",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":31013,
+			"Departamento":"Recursos Humanos",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Lopez Rodriguez",
+			"Nombres":"Diana Carolina",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":50120,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Diaz Beltran",
+			"Nombres":"Diana Catalina",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":50120,
+			"Departamento":"Recursos Humanos",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"Camargo Vargas",
+			"Nombres":"Hugo Andrés",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":31013,
+			"Departamento":"Contabilidad",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Moncaleano Preciado",
+			"Nombres":"Jenny Viviana",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":50120,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"Rey Botero",
+			"Nombres":"Jorge Esteban",
+			"Supervisor":"Dominguez, Ana",
+			"Clase":31013,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Orozco Dussán",
+			"Nombres":"Jorge Mario",
+			"Supervisor":"Dominguez, Ana",
+			"Clase":10019,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Jimenez Cortes",
+			"Nombres":"Juan Camilo",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":22149,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Barjuch Moreno",
+			"Nombres":"Juan Fernando",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":31013,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"Romero Escobar",
+			"Nombres":"Juan Sebastian",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":50120,
+			"Departamento":"Contabilidad",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Romero Montoya",
+			"Nombres":"Julián",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":22149,
+			"Departamento":"Servicio al Cliente",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Sanchez Prada",
+			"Nombres":"Julian Leonardo",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":10019,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"Gaviria Garcia",
+			"Nombres":"Juliana",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":22149,
+			"Departamento":"Servicio al Cliente",
+			"Subsidiaria":"Cafamaz"
+		},
+		{
+			"Apellidos":"Puerto Castro",
+			"Nombres":"Laura Camila",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":31013,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Rodríguez Torres",
+			"Nombres":"Laura Fernanda",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":50120,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Novoa Gomez",
+			"Nombres":"Laura Natalia",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":31013,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"Del Río Ayerbe",
+			"Nombres":"Laura Viviana",
+			"Supervisor":"Ramirez, Daniela",
+			"Clase":22149,
+			"Departamento":"Contabilidad",
+			"Subsidiaria":"Colsubsidio"
+		},
+		{
+			"Apellidos":"Dueñas Rojas",
+			"Nombres":"Leonardo Andrés",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":50120,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Varon Buitrago",
+			"Nombres":"Laura Catalina",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":31013,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Rey Sanchez",
+			"Nombres":"Adriana Marcela",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":31013,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Carvajal Vargas",
+			"Nombres":"Alexander",
+			"Supervisor":"Dominguez, Ana",
+			"Clase":50120,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"Acero Caro",
+			"Nombres":"Andrea Catalina",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":22149,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"Cruz Garcia",
+			"Nombres":"Andrea Liliana",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":31013,
+			"Departamento":"Recursos Humanos",
+			"Subsidiaria":"Colsubsidio"
+		},
+		{
+			"Apellidos":"Villa Monroy",
+			"Nombres":"Andres Felipe",
+			"Supervisor":"Ramirez, Daniela",
+			"Clase":50120,
+			"Departamento":"Contabilidad",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Mahecha Piñeros",
+			"Nombres":"Angela Patricia",
+			"Supervisor":"Ramirez, Daniela",
+			"Clase":70814,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Fernández Martínez",
+			"Nombres":"Angie Tatiana",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":10019,
+			"Departamento":"Recursos Humanos",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Polanco Ruiz",
+			"Nombres":"Brigite",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":22149,
+			"Departamento":"Servicio al Cliente",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Cortés Montejo",
+			"Nombres":"Camilo Alberto",
+			"Supervisor":"Dominguez, Ana",
+			"Clase":50120,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Polo Castellanos",
+			"Nombres":"Carlos Andrés",
+			"Supervisor":"Dominguez, Ana",
+			"Clase":10019,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Cafamaz"
+		},
+		{
+			"Apellidos":"Muñoz Lizarazo",
+			"Nombres":"Deny Marcela",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":10019,
+			"Departamento":"Contabilidad",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"Guerrero Penagos",
+			"Nombres":"Ingrid Rocio",
+			"Supervisor":"Dominguez, Ana",
+			"Clase":50120,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Abondano Acevedo",
+			"Nombres":"Alejandro",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":10019,
+			"Departamento":"Recursos Humanos",
+			"Subsidiaria":"Colsubsidio"
+		},
+		{
+			"Apellidos":"Blanco Concha",
+			"Nombres":"Angelica Lisseth",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":22149,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"Villamizar Aristizabal",
+			"Nombres":"Camilo",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":50120,
+			"Departamento":"Servicio al Cliente",
+			"Subsidiaria":"Colsubsidio"
+		},
+		{
+			"Apellidos":"Gomez Rodriguez",
+			"Nombres":"Camilo Enrique",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":22149,
+			"Departamento":"Recursos Humanos",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Gonzalez Suarez",
+			"Nombres":"July Catherine",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":70814,
+			"Departamento":"Recursos Humanos",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Gomez Gianine",
+			"Nombres":"Carol Ruchina",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":50120,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Pintor Pinzon",
+			"Nombres":"Carolina",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":70814,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Dussán Guzmán",
+			"Nombres":"Cinthya Fernanda",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":22149,
+			"Departamento":"Servicio al Cliente",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"Torres Frias",
+			"Nombres":"Claudia Liliana",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":31013,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Cafamaz"
+		},
+		{
+			"Apellidos":"Barthel Guardiola",
+			"Nombres":"Cristina Elizabeth",
+			"Supervisor":"Ramirez, Daniela",
+			"Clase":70814,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Gómez Delgado",
+			"Nombres":"Daniel",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":22149,
+			"Departamento":"Comercial",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Hernández Bravo",
+			"Nombres":"Daniela",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":70814,
+			"Departamento":"Servicio al Cliente",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Suarique Ávila",
+			"Nombres":"Daniela Katherinne",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":31013,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Compensar"
+		},
+		{
+			"Apellidos":"Forero Peña",
+			"Nombres":"Diego Alejandro",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":22149,
+			"Departamento":"Contabilidad",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Quesada Calderín",
+			"Nombres":"Estewil Carlos",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":10019,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Nieto Bustos",
+			"Nombres":"Gabriel Mauricio",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":22149,
+			"Departamento":"Servicio al Cliente",
+			"Subsidiaria":"Colsubsidio"
+		},
+		{
+			"Apellidos":"Mendoza Alvear",
+			"Nombres":"Gloria Patricia",
+			"Supervisor":"Galindo, Ernesto",
+			"Clase":70814,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Camacol"
+		},
+		{
+			"Apellidos":"Coral Burbano",
+			"Nombres":"Iván David",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":10019,
+			"Departamento":"Recursos Humanos",
+			"Subsidiaria":"Colsubsidio"
+		},
+		{
+			"Apellidos":"Barrera Lopez",
+			"Nombres":"Ivonne Jouliette",
+			"Supervisor":"Cardenas, Manuel",
+			"Clase":70814,
+			"Departamento":"Operaciones",
+			"Subsidiaria":"Compensar"
+		}
+	]
