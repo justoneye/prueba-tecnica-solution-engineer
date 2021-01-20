@@ -1,8 +1,13 @@
 # Prueba técnica – Solution Engineer
+
+_Acá va un párrafo que describa lo que es el proyecto_
+
 _Presentada por: Pilar Camargo Márquez_
 - [Página personal](https://about.me/justoneye)
 - [GitHub](https://github.com/justoneye)
 - [LinkedIn](https://www.linkedin.com/in/pilarcamargo)
+
+## Instrucciones
 
 <ol>
 <li> Construir un archivo formato JSON basado en un archivo en Excel. </li>
@@ -20,6 +25,7 @@ _Presentada por: Pilar Camargo Márquez_
 
 ## Checklist - Criterio de aceptación 
 
+<ol>
 [✓ ] Construir archivo JSON a partir de archivo Excel 
 [✓ ] Interfaz web tipo reporte (lista de empleados) 
 [✓ ] Interfaz con filtros (Supervisor, Clases, Dpto, Subsidiaria) 
@@ -34,6 +40,7 @@ _Presentada por: Pilar Camargo Márquez_
 - HTML
 - CSS
 - Javascript 
+</ol>
 
 ## Estructura del Archivo
 
@@ -49,3 +56,10 @@ prueba-tecnica-solution-engineer/
   estilos.css
   README.md
 ```
+
+A continuación abra el archivo e inicie a trabajar en la aplicación.
+```
+index.html
+```
+
+Para la ejecución del archivo no se requiere la instalación de ningún tipo de archivo adicional, solo descomprimir el archivo de forma que la estrctura de archivos en la carpeta se mantenga.
