@@ -3,11 +3,12 @@
 <title>Base de Datos (SurtiMarket)</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<body>
 
+<body>
 <div class="w3-container">
   <h2>SurtiMarket S.A.S.</h2>
   <h4>Base de Datos - Seccional Bogotá</h4>
@@ -30,22 +31,26 @@
   </form>
   
   <table class="w3-table">
-    <tr>
-      <th>Apellido</th>
-      <th>Nombre</th>
-      <th>Supervisor</th>
-      <th>Clase</th>
-      <th>Departamento</th>
-      <th>Subsidiaria</th>
-    </tr>
-    <tr>
-      <td>Perez</td>
-      <td>Juan</td>
-      <td>Galindo, Ernesto</td>
-      <td>50120</td>
-      <td>Contabilidad</td>
-      <td>Compensar</td>
-    </tr>
+    <thead>
+        <tr>
+        <th>Apellidos</th>
+        <th>Nombres</th>
+        <th>Supervisor</th>
+        <th>Clase</th>
+        <th>Departamento</th>
+        <th>Subsidiaria</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+        <td>Perez</td>
+        <td>Juan</td>
+        <td>Galindo, Ernesto</td>
+        <td>50120</td>
+        <td>Contabilidad</td>
+        <td>Compensar</td>
+        </tr>
+    </tbody>
   </table>
 </div>
 <div class="w3-container">
@@ -53,6 +58,5 @@
     <button>Guardar como CSV</button>
     <button>Guardar como PDF</button>
 </div>
-
 </body>
 </html>
