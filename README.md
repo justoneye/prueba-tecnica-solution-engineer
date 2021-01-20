@@ -61,9 +61,13 @@ prueba-tecnica-solution-engineer/
   README.md
 ```
 
-A continuación abra el archivo e inicie a trabajar en la aplicación.
+A continuación, dentro de la carpeta prueba-tecnica-solution-engineer abra la consola de comandos donde se encuentra la carpeta y a contuación instale [http-server](https://www.npmjs.com/package/http-server) digitando el siguiente comando: 
 ```
-index.html
+npm install --global http-server
 ```
+Al terminar el proceso de instalación ejecute la siguiente línea:
 
-Para la ejecución del archivo no se requiere la instalación de ningún tipo de archivo adicional, solo descomprimir el archivo de forma que la estrctura de archivos en la carpeta se mantenga.
+```
+http-server --proxy http://localhost:8080?
+```
+Y diríjase al navegador a la dirección [http://localhost:8080](http://localhost:8080), en donde ya verá desplegado la aplicación web. Recuerde descomprimir el archivo de forma que la estrctura de archivos en la carpeta se mantenga.
