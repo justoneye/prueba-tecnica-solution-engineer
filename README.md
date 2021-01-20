@@ -1,12 +1,16 @@
 # Prueba técnica – Solution Engineer
+_Presentada por: Pilar Camargo Márquez_
+- [Página personal](https://about.me/justoneye)
+- [GitHub](https://github.com/justoneye)
+- [LinkedIn](https://www.linkedin.com/in/pilarcamargo)
 
 <ol>
 <li> Construir un archivo formato JSON basado en un archivo en Excel. </li>
-<li> Una vez convertido el Excel en JSON, se debe construir con este una interfaz web tipo reporte que permita listar todos los empleados de la compañía. Esta interfaz de permitir filtrar por: </li>
+<li> Una vez convertido el Excel en JSON, se debe construir con este una interfaz web tipo reporte que permita listar todos los empleados de la compañía. Esta interfaz debe permitir filtrar por: </li>
 <ul>
 <li> Supervisor </li>
 <li> Clases </li>
-<li>  Departamento </li>
+<li> Departamento </li>
 <li> Subsidiaria </li>
 </ul>
 <li> El listado se debe mostrar agrupado por supervisor y ordenado alfabéticamente por la columna Nombre dentro de cada uno de estos grupos. </li>
@@ -15,17 +19,33 @@
 </ol>
 
 ## Checklist - Criterio de aceptación 
-[] Construir archivo JSON a partir de archivo Excel 
-[] Interfaz web tipo reporte (lista de empleados) 
-[] Interfaz con filtros (Supervisor, Clases, Dpto, Subsidiaria) 
-[] Listado agrupado por Supervisor 
-[] Listado ordenado alfabéticamente por "Nombre" en cada grupo 
-[] Exportación de consulta a:
+
+[✓ ] Construir archivo JSON a partir de archivo Excel 
+[✓ ] Interfaz web tipo reporte (lista de empleados) 
+[✓ ] Interfaz con filtros (Supervisor, Clases, Dpto, Subsidiaria) 
+[✓ ] Listado agrupado por Supervisor 
+[✓ ] Listado ordenado alfabéticamente por "Nombre" en cada grupo 
+[✓ ] Exportación de consulta a:
 - Excel 
 - CSV 
 - PDF
-[] Entrega de archivo .readme 
-[] Uso de:
+[✓ ] Entrega de archivo .readme 
+[✓ ] Uso de:
 - HTML
 - CSS
 - Javascript 
+
+## Estructura del Archivo
+
+Después de descargar y descomprimir la carpeta se desplegará los siguientes archivos así:
+
+```
+prueba-tecnica-solution-engineer/
+  archivos/
+  scripts/
+    exportar.js
+    filtros.js
+  index.html
+  estilos.css
+  README.md
+```
