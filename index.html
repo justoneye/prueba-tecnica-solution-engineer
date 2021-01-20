@@ -5,8 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <link rel="stylesheet" href="estilos.css">
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+<script src="DB/BaseDeDatos.json"></script>
 
 <body>
 <div class="w3-container">
@@ -52,14 +54,20 @@
 </div>
 
 <script>
-    console.log("entra")
     var baseDatos = document.querySelector('#baseDatos')
 
-    fetch('DB/BaseDeDatos.json')
-        .then(res => res.json())
-        .then(empleados => {
-            tabla(empleados)
-        })
+    const xhttp = new XMLHttpRequest();
+    xhttp.open("GET", "DB/BaseDeDatos.json", true);
+    xhttp.send();
+
+    xhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+            var res = this.responseText;
+            console.log("res", res);
+            var converRes = $.parseJSON(res);
+            console.log("converRes", converRes);
+        }
+    }
 
     function tabla(empleados) {
         baseDatos.innerHTML = ''
