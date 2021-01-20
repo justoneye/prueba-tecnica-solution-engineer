@@ -10,12 +10,13 @@
 
 <div class="w3-container">
   <h2>Basic Table</h2>
-  <p>The w3-table class defines a basic table:</p>
+  <h2>Basic Table</h2>
 
   <form class="w3-container">
-    <h4>Filtrar por:</h4>
+    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
+    <h5>Filtrar por:</h5>
     <p>
-    <input class="w3-radio" type="radio" name="filtro" value="Supervisor" checked>
+    <input class="w3-radio" type="radio" name="filtro" value="Supervisor">
     <label>Supervisor</label></p>
     <p>
     <input class="w3-radio" type="radio" name="filtro" value="Clases">
@@ -38,12 +39,12 @@
       <th>Subsidiaria</th>
     </tr>
     <tr>
-      <td>Juan</td>
       <td>Perez</td>
-      <th>Ernesto Galindo</th>
+      <td>Juan</td>
+      <td>Galindo, Ernesto</td>
       <td>50120</td>
-      <th>Contabilidad</th>
-      <th>Compensar</th>
+      <td>Contabilidad</td>
+      <td>Compensar</td>
     </tr>
   </table>
 </div>
