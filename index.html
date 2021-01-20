@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="estilos.css">
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
@@ -14,7 +14,7 @@
   <h5>Base de Datos - Seccional Bogotá</h5>
 
   <form class="w3-container">
-    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
+    <input type="text" id="inputFiltro" onkeyup="myFunction()" placeholder="Search for names..">
     <h5>Filtrar por:</h5>
     <p>
     <input class="w3-radio" type="radio" name="filtro" value="Supervisor">
@@ -30,7 +30,7 @@
     <label>Subsidiaria</label></p>
   </form>
   
-  <table class="w3-table">
+  <table id="tablaEmpleados" class="w3-table">
     <thead>
         <tr>
         <th>Apellidos</th>
@@ -52,15 +52,14 @@
 </div>
 
 <script>
+    console.log("entra")
     var baseDatos = document.querySelector('#baseDatos')
 
-    function traer() {
-        fetch('DB/BaseDeDatos.json')
-            .then(res => res.json())
-            .then(empleados => {
-                tabla(empleados)
-            })
-    }
+    fetch('DB/BaseDeDatos.json')
+        .then(res => res.json())
+        .then(empleados => {
+            tabla(empleados)
+        })
 
     function tabla(empleados) {
         baseDatos.innerHTML = ''
