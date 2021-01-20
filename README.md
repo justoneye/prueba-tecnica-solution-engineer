@@ -3,14 +3,16 @@
 <ol>
 <li> Construir un archivo formato JSON basado en un archivo en Excel. </li>
 <li> Una vez convertido el Excel en JSON, se debe construir con este una interfaz web tipo reporte que permita listar todos los empleados de la compañía. Esta interfaz de permitir filtrar por: </li>
-- Supervisor
-- Clases
-- Departamento
-- Subsidiaria
+<ul>
+<li> Supervisor </li>
+<li> Clases </li>
+<li>  Departamento </li>
+<li> Subsidiaria </li>
+</ul>
 <li> El listado se debe mostrar agrupado por supervisor y ordenado alfabéticamente por la columna Nombre dentro de cada uno de estos grupos. </li>
-<li> El resultado de esta consulta se debe poder exportar a (Excel, CSV y PDF) y almacenar en una carpeta de la solución construida. 
-Documentar en un archivo de texto (readme) la forma de ejecutar la solución. </li>
-<ol>
+<li> El resultado de esta consulta se debe poder exportar a (Excel, CSV y PDF) y almacenar en una carpeta de la solución construida. </li>
+<li> Documentar en un archivo de texto (readme) la forma de ejecutar la solución. </li>
+</ol>
 
 ## Checklist - Criterio de aceptación 
 [] Construir archivo JSON a partir de archivo Excel 
