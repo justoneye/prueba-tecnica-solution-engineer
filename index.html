@@ -11,7 +11,7 @@
 <body>
 <div class="w3-container">
   <h2>SurtiMarket S.A.S.</h2>
-  <h4>Base de Datos - Seccional Bogotá</h4>
+  <h5>Base de Datos - Seccional Bogotá</h5>
 
   <form class="w3-container">
     <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
@@ -41,22 +41,44 @@
         <th>Subsidiaria</th>
         </tr>
     </thead>
-    <tbody>
-        <tr>
-        <td>Perez</td>
-        <td>Juan</td>
-        <td>Galindo, Ernesto</td>
-        <td>50120</td>
-        <td>Contabilidad</td>
-        <td>Compensar</td>
-        </tr>
+    <tbody id="baseDatos">
     </tbody>
   </table>
 </div>
 <div class="w3-container">
-    <button>Guardar como Excel</button>
-    <button>Guardar como CSV</button>
-    <button>Guardar como PDF</button>
+    <button id="guardarExcel">Guardar como Excel</button>
+    <button id="guardarCSV">Guardar como CSV</button>
+    <button id="guardarPDF">Guardar como PDF</button>
 </div>
+
+<script>
+    var baseDatos = document.querySelector('#baseDatos')
+
+    function traer() {
+        fetch('DB/BaseDeDatos.json')
+            .then(res => res.json())
+            .then(empleados => {
+                tabla(empleados)
+            })
+    }
+
+    function tabla(empleados) {
+        baseDatos.innerHTML = ''
+        for(let empleado of empleados){
+            baseDatos.innerHTML += `
+            <tr>
+                <td>${ empleado.Apellidos }</td>
+                <td>${ empleado.Nombres }</td>
+                <td>${ empleado.Supervisor }</td>
+                <td>${ empleado.Clase }</td>
+                <td>${ empleado.Departamento }</td>
+                <td>${ empleado.Subsidiaria }</td>
+            </tr> 
+            `
+        }
+    }
+</script>
+
+
 </body>
 </html>
